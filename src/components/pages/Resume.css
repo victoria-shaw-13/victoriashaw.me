@@ -1,0 +1,11 @@
+.resume{
+    flex-direction: row;
+    display: flex;
+    overflow: hidden;
+    justify-content: center;
+    background:#ebd5dc ;
+  }
+
+.link > a{
+      font-size: 100px;
+  }

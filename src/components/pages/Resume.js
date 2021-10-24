@@ -8,7 +8,7 @@ function Resume() {
   return(
     <div classname='resume'>
       <div classname='link'>
-        <a href = {pdf} target = "_blank">PDF</a>
+        <a href = {pdf} target = "_blank" rel="noreferrer" >PDF</a>
       </div>
       i am confused 
     </div>

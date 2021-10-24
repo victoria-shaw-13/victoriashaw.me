@@ -1,0 +1,39 @@
+.slider {
+    position: relative;
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+    max-height: 50%;
+}
+
+.image{
+    max-height: 1000px;
+    width: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px
+}
+
+.right-arrow{
+    position: absolute;
+    top: 50%;
+    right: 32px; 
+    font-size: 3rem; 
+    z-index: 10; 
+    cursor: pointer;
+    user-select: none; 
+}
+
+.left-arrow{
+    position: absolute;
+    top: 50%;
+    left: 32px; 
+    font-size: 3rem; 
+    z-index: 10; 
+    cursor: pointer;
+    user-select: none; 
+}

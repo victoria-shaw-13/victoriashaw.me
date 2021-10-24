@@ -7,7 +7,7 @@
 }
 
 .image{
-    max-height: 80%;
+    max-height: 1000px;
     width: auto;
     display: flex;
     flex-direction: column;

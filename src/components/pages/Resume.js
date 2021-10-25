@@ -1,7 +1,7 @@
 import React from 'react';
 import '../../App.css';
-import './Resume.css';
 import pdf from '../../Victoria_resume_8_8.pdf';
+import '../../components/pages/Resume.css';
 
 
 function Resume() {
@@ -10,7 +10,6 @@ function Resume() {
       <div classname='link'>
         <a href = {pdf} target = "_blank" rel="noreferrer" >PDF</a>
       </div>
-      i am confused 
     </div>
   )
 }

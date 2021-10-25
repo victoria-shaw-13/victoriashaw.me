@@ -1,0 +1,18 @@
+.about-me{
+    flex-direction: column;
+    margin-left: 4%;
+    margin-top: 5%;
+    margin-right: 10%;
+}
+
+.about-me > p {
+    margin-left: 3%; 
+    
+}
+
+.about-me >h1 {
+    margin-top: 5%;
+    
+}
+
+

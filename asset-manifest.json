@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/victoriashaw.me/static/css/main.50fa1057.chunk.css",
+    "main.js": "/victoriashaw.me/static/js/main.33c10a3b.chunk.js",
+    "main.js.map": "/victoriashaw.me/static/js/main.33c10a3b.chunk.js.map",
+    "runtime-main.js": "/victoriashaw.me/static/js/runtime-main.1a2bdbce.js",
+    "runtime-main.js.map": "/victoriashaw.me/static/js/runtime-main.1a2bdbce.js.map",
+    "static/js/2.88c0aae1.chunk.js": "/victoriashaw.me/static/js/2.88c0aae1.chunk.js",
+    "static/js/2.88c0aae1.chunk.js.map": "/victoriashaw.me/static/js/2.88c0aae1.chunk.js.map",
+    "index.html": "/victoriashaw.me/index.html",
+    "static/css/main.50fa1057.chunk.css.map": "/victoriashaw.me/static/css/main.50fa1057.chunk.css.map",
+    "static/js/2.88c0aae1.chunk.js.LICENSE.txt": "/victoriashaw.me/static/js/2.88c0aae1.chunk.js.LICENSE.txt",
+    "static/media/Victoria_resume_8_8.1929e2db.pdf": "/victoriashaw.me/static/media/Victoria_resume_8_8.1929e2db.pdf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1a2bdbce.js",
+    "static/js/2.88c0aae1.chunk.js",
+    "static/css/main.50fa1057.chunk.css",
+    "static/js/main.33c10a3b.chunk.js"
+  ]
+}

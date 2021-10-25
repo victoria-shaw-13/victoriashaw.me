@@ -1,12 +1,13 @@
 .resume {
-    flex-direction: row;
+    flex-direction: column;
     display: flex;
     overflow: hidden;
     justify-content: center;
-    background:#ebd5dc ;
+;
   }
 
 .link {
-      font-size: 80px;
+      font-size: 120px;
       justify-content: center;
+      color: black
   }

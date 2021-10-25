@@ -7,8 +7,6 @@ import '../../components/pages/Resume.css';
 function Resume() {
   return(
     <div classname='resume'>
-      test
-      test
       <div classname='link'>
         <a href = {pdf} target = "_blank" rel="noreferrer" >PDF</a>
       </div>

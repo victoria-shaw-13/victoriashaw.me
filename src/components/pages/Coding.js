@@ -14,8 +14,8 @@ function Coding() {
     <h1> Why I Want to Work at Dali</h1>
     <p>
       Through my time at Dartmouth, I have learned so much about coding through classes and projects. I would love the opprotunity to apply the skills I have learned in the classroom into real world projects.
-      It was so exciting being able to assist in creating a product with actual impact. Moreover, Wokring in a collaboaribe manner that can not be done with solo work. 
-    </p>
+      It is so exciting being able to assist in creating a product with actual impact. Moreover, I look forward to a collaborative space and tight-knight community Dali provides. 
+      </p>
     </div>
     );
 }

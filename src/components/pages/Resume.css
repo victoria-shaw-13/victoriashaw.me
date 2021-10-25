@@ -1,4 +1,4 @@
-.resume{
+.resume {
     flex-direction: row;
     display: flex;
     overflow: hidden;
@@ -6,6 +6,7 @@
     background:#ebd5dc ;
   }
 
-.link > a{
-      font-size: 100px;
+.link {
+      font-size: 80px;
+      justify-content: center;
   }

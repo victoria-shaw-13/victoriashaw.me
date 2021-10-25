@@ -6,8 +6,8 @@
 }
 
 .home,
-.resume,
-.code,
+.Resume,
+.Coding,
 .art-portfolio,
 .contact-me {
   display: flex;
@@ -22,7 +22,7 @@
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
-  color: #ebd5dc;
+  color: #ebd5dc ;
   font-size: 100px;
 }
 
@@ -34,12 +34,13 @@
   color: #fff;
   font-size: 100px;
 }
-.code {
+.coding {
   /*background-image: url('/images/img-1.jpg');*/
   background-position: center;
   background-size: fill;
   background-repeat: no-repeat;
-  color: #fff;
+  color: #ebd5dc;
+  background:#ebd5dc;
   font-size: 100px;
 }
 

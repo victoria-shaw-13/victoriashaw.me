@@ -8,4 +8,6 @@
  Art Portfolio page includes an image gallery of my artwork. 
 
  ## limitations 
+
  Personal Website is fully functionally on local server but lost functionality during deployment because none of the images will load. Thus, gallery does not work properly on deployed website. I can not figure out what is causing the issue. Working local branch demonstrates code before adjustments for deployment that is fully functional. 
+
